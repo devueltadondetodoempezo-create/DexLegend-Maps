@@ -1,2 +1,2 @@
 # DexLegend-Maps
-Centro de mapas de DEX LEGENd YT
+Centro de mapas de DEX LEGEND YT
